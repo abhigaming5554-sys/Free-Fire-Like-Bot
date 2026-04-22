@@ -22,7 +22,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # === CONFIG ===
-BOT_TOKEN = os.getenv("8722336483:AAEswyT8JTDt-ti1AMci6uxspkKmR6IRNKU")
+BOT_TOKEN = "8722336483:AAEswyT8JTDt-ti1AMci6uxspkKmR6IRNKU"
 
 if not BOT_TOKEN:
     logger.error("❌ BOT_TOKEN not found! Please set your bot token in environment variables.")
