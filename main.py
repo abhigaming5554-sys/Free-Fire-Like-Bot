@@ -31,7 +31,7 @@ if not BOT_TOKEN:
 REQUIRED_CHANNELS = ["@PREETILIKEGROUP"]
 GROUP_JOIN_LINK = "https://t.me/PREETILIKEGROUP"
 OWNER_ID = 1002340918221
-OWNER_USERNAME = "@ABHAY_X_07"
+OWNER_USERNAME = "@ABHAY\\_X\\_07"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 like_tracker = {}   # in-memory cache
