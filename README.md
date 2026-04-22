@@ -18,7 +18,7 @@ A powerful Telegram bot designed to send likes to **Garena Free Fire** profiles 
 
 Try this bot directly on Telegram:  
 
-[![Try on Telegram](https://img.shields.io/badge/Try%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paglu_like_bot) 
+[![Try on Telegram](https://img.shields.io/badge/Try%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/PREETILIKEBOT) 
 
 ## 🤖 Bot Commands
 - `/start` - Start the bot and verify membership.
@@ -79,10 +79,10 @@ PORT=5000                                # Optional: Default is 5000
 ## 💛 Credits  
 
 <p align="center">
-  <a href="https://t.me/itzpaglu">
+  <a href="https://t.me/ABHAY_X_07">
     <img src="https://img.shields.io/badge/Owner-🔥%20@itzpaglu-pink?style=for-the-badge&logo=telegram" />
   </a>
-  <a href="https://t.me/paglu_dev">
+  <a href="http://t.me/PREETILIKEBOT">
     <img src="https://img.shields.io/badge/Channel-TARIKUL.dev-blue?style=for-the-badge&logo=telegram" />
   </a>
 </p>
