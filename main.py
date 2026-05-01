@@ -76,7 +76,7 @@ def call_api(region, uid):
     try:
         response = requests.get(url, timeout=20)
         if response.status_code != 200:
-            return {"⚠️Invalid": " Maximum likes reached for today. Please try again tomorrow."}
+            return {"⚠️Invalid": "only owner send this command plese buy a primium like plan. THANK YOU"}
         return response.json()
     except requests.exceptions.RequestException:
         return {"error": "API Failed. Please try again later."}
